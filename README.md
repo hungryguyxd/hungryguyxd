@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋(said obi van kenobi)
 
 # 💫 About Me:
-🌱 I’m currently learning<br>
+🌱 I wish to own a park with capibaras
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
