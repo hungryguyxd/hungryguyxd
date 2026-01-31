@@ -35,12 +35,7 @@
 
 ### My favorite quote✍️
 
-```html
-A computer can never be held accountable
-therefore a computer must never make a managment decision
-
-@IBM 1979
-```
+> "A computer can never be held accountable; therefore, a computer must never make a management decision" (IBM, 1979).
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hungryguyxd&icon=3&color=6)](https://visitcount.itsvg.in)
