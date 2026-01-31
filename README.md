@@ -1,7 +1,7 @@
 ## Hi there 👋(said obi van kenobi)
 
 # 💫 About Me:
-🌱 I wish to own a park with capibaras
+🌱 We need more capibaras
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
@@ -29,8 +29,18 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)
 
-### ✍️
+### Random Quote✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### My favorite quote✍️
+
+```html
+A computer can never be held accountable
+therefore a computer must never make a managment decision
+
+@IBM 1979
+```
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hungryguyxd&icon=3&color=6)](https://visitcount.itsvg.in)
