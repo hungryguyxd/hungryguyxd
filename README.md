@@ -1,4 +1,4 @@
-## Hi there 👋(said obi van kenobi)
+## Hi there 👋(said by obi van kenobi)
 
 # 💫 About Me:
 🌱 We need more capibaras
